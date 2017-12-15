@@ -7,3 +7,5 @@ if(num % 2 == 0){
 else{
   console.writeline("The {0} is not an even number.",num);
 }
+
+/*This is a simple comment*/
